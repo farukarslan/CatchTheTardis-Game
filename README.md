@@ -7,4 +7,4 @@
 - Highest scores you make at each level are recorded.
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/63361729/114284129-6ce8e780-9a56-11eb-827a-a223253eda5d.png" />
+<img src="https://user-images.githubusercontent.com/63361729/114284129-6ce8e780-9a56-11eb-827a-a223253eda5d.png" width="540" height="1080"/>
